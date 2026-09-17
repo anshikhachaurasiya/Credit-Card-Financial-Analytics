@@ -105,5 +105,5 @@ These power the **week-over-week (WoW) revenue tracking** and **customer segment
 
 ---
 
-**Author:** Anshikha Chaurasiya
+**Author:** Anshikha Chaurasiya..
 [GitHub](https://github.com/anshikhachaurasiya) · [LinkedIn](https://linkedin.com/in/anshikha-chaurasiya-24681328a)
